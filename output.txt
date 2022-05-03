@@ -1,0 +1,160 @@
+Iteration: 1
+Binary string tested: 00110110100010000011
+Satisfied clauses: 49
+Unsatisfied clauses: 42
+Chosen clause: (-1 8 -16 )
+Chosen varible: -1
+New string to be tested: 10110110100010000011
+
+Iteration: 2
+Binary string tested: 00110110100010000011
+Satisfied clauses: 55
+Unsatisfied clauses: 36
+Chosen clause: (-1 10 16 )
+Chosen varible: 16
+New string to be tested: 10110110100010010011
+
+Iteration: 3
+Binary string tested: 00110110100010000011
+Satisfied clauses: 61
+Unsatisfied clauses: 30
+Chosen clause: (-3 5 10 )
+Chosen varible: 10
+New string to be tested: 10110110110010010011
+
+Iteration: 4
+Binary string tested: 00110110100010000011
+Satisfied clauses: 70
+Unsatisfied clauses: 21
+Chosen clause: (-20 8 -2 )
+Chosen varible: -2
+New string to be tested: 11110110110010010011
+
+Iteration: 5
+Binary string tested: 00110110100010000011
+Satisfied clauses: 72
+Unsatisfied clauses: 19
+Chosen clause: (11 -6 -4 )
+Chosen varible: -6
+New string to be tested: 11110010110010010011
+
+Iteration: 6
+Binary string tested: 00110110100010000011
+Satisfied clauses: 67
+Unsatisfied clauses: 24
+Chosen clause: (-2 -14 -13 )
+Chosen varible: -2
+New string to be tested: 10110010110010010011
+
+Iteration: 7
+Binary string tested: 00110110100010000011
+Satisfied clauses: 65
+Unsatisfied clauses: 26
+Chosen clause: (-9 11 15 )
+Chosen varible: 15
+New string to be tested: 10110010110010110011
+
+Iteration: 8
+Binary string tested: 00110110100010000011
+Satisfied clauses: 68
+Unsatisfied clauses: 23
+Chosen clause: (-7 -17 -19 )
+Chosen varible: -19
+New string to be tested: 10110010110010110001
+
+Iteration: 9
+Binary string tested: 00110110100010000011
+Satisfied clauses: 67
+Unsatisfied clauses: 24
+Chosen clause: (-18 8 14 )
+Chosen varible: 8
+New string to be tested: 10110011110010110001
+
+Iteration: 10
+Binary string tested: 00110110100010000011
+Satisfied clauses: 70
+Unsatisfied clauses: 21
+Chosen clause: (-12 19 -16 )
+Chosen varible: 19
+New string to be tested: 10110011110010110011
+
+Iteration: 11
+Binary string tested: 00110110100010000011
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-15 -16 6 )
+Chosen varible: -15
+New string to be tested: 10110011110010010011
+
+Iteration: 12
+Binary string tested: 00110110100010000011
+Satisfied clauses: 68
+Unsatisfied clauses: 23
+Chosen clause: (-5 -12 18 )
+Chosen varible: -5
+New string to be tested: 10111011110010010011
+
+Iteration: 13
+Binary string tested: 00110110100010000011
+Satisfied clauses: 69
+Unsatisfied clauses: 22
+Chosen clause: (11 -6 -4 )
+Chosen varible: 11
+New string to be tested: 10111011111010010011
+
+Iteration: 14
+Binary string tested: 00110110100010000011
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-12 -4 -15 )
+Chosen varible: -15
+New string to be tested: 10111011111010110011
+
+Iteration: 15
+Binary string tested: 00110110100010000011
+Satisfied clauses: 73
+Unsatisfied clauses: 18
+Chosen clause: (-12 -16 -18 )
+Chosen varible: -16
+New string to be tested: 10111011111010100011
+
+Iteration: 16
+Binary string tested: 00110110100010000011
+Satisfied clauses: 70
+Unsatisfied clauses: 21
+Chosen clause: (-19 -5 6 )
+Chosen varible: -5
+New string to be tested: 10110011111010100011
+
+Iteration: 17
+Binary string tested: 00110110100010000011
+Satisfied clauses: 69
+Unsatisfied clauses: 22
+Chosen clause: (-7 -13 16 )
+Chosen varible: 16
+New string to be tested: 10110011111010110011
+
+Iteration: 18
+Binary string tested: 00110110100010000011
+Satisfied clauses: 72
+Unsatisfied clauses: 19
+Chosen clause: (14 18 -1 )
+Chosen varible: 18
+New string to be tested: 10110011111010110111
+
+Iteration: 19
+Binary string tested: 00110110100010000011
+Satisfied clauses: 74
+Unsatisfied clauses: 17
+Chosen clause: (-11 17 -19 )
+Chosen varible: 17
+New string to be tested: 10110011111010111111
+
+Iteration: 20
+Binary string tested: 00110110100010000011
+Satisfied clauses: 77
+Unsatisfied clauses: 14
+Chosen clause: (-7 -17 -19 )
+Chosen varible: -17
+New string to be tested: 10110011111010110111
+

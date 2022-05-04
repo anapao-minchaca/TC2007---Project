@@ -1,160 +1,480 @@
 Iteration: 1
-Binary string tested: 00110110100010000011
-Satisfied clauses: 49
-Unsatisfied clauses: 42
-Chosen clause: (-1 8 -16 )
-Chosen varible: -1
-New string to be tested: 10110110100010000011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 43
+Unsatisfied clauses: 48
+Chosen clause: (-20 -16 19 )
+Chosen varible: 19
+New string to be tested: 00000111001001000111
 
 Iteration: 2
-Binary string tested: 00110110100010000011
-Satisfied clauses: 55
-Unsatisfied clauses: 36
-Chosen clause: (-1 10 16 )
-Chosen varible: 16
-New string to be tested: 10110110100010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 54
+Unsatisfied clauses: 37
+Chosen clause: (-17 -19 9 )
+Chosen varible: -19
+New string to be tested: 00000111001001000101
 
 Iteration: 3
-Binary string tested: 00110110100010000011
-Satisfied clauses: 61
-Unsatisfied clauses: 30
-Chosen clause: (-3 5 10 )
-Chosen varible: 10
-New string to be tested: 10110110110010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 43
+Unsatisfied clauses: 48
+Chosen clause: (9 -1 12 )
+Chosen varible: 12
+New string to be tested: 00000111001101000101
 
 Iteration: 4
-Binary string tested: 00110110100010000011
-Satisfied clauses: 70
-Unsatisfied clauses: 21
-Chosen clause: (-20 8 -2 )
-Chosen varible: -2
-New string to be tested: 11110110110010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 46
+Unsatisfied clauses: 45
+Chosen clause: (5 19 -18 )
+Chosen varible: 5
+New string to be tested: 00001111001101000101
 
 Iteration: 5
-Binary string tested: 00110110100010000011
-Satisfied clauses: 72
-Unsatisfied clauses: 19
-Chosen clause: (11 -6 -4 )
-Chosen varible: -6
-New string to be tested: 11110010110010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 53
+Unsatisfied clauses: 38
+Chosen clause: (17 -12 9 )
+Chosen varible: 17
+New string to be tested: 00001111001101001101
 
 Iteration: 6
-Binary string tested: 00110110100010000011
-Satisfied clauses: 67
-Unsatisfied clauses: 24
-Chosen clause: (-2 -14 -13 )
-Chosen varible: -2
-New string to be tested: 10110010110010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 56
+Unsatisfied clauses: 35
+Chosen clause: (15 -12 -6 )
+Chosen varible: -12
+New string to be tested: 00001111001001001101
 
 Iteration: 7
-Binary string tested: 00110110100010000011
-Satisfied clauses: 65
-Unsatisfied clauses: 26
-Chosen clause: (-9 11 15 )
-Chosen varible: 15
-New string to be tested: 10110010110010110011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 53
+Unsatisfied clauses: 38
+Chosen clause: (15 -12 -6 )
+Chosen varible: -12
+New string to be tested: 00001111001101001101
 
 Iteration: 8
-Binary string tested: 00110110100010000011
-Satisfied clauses: 68
-Unsatisfied clauses: 23
-Chosen clause: (-7 -17 -19 )
-Chosen varible: -19
-New string to be tested: 10110010110010110001
+Binary string tested: 00000111001001000101
+Satisfied clauses: 56
+Unsatisfied clauses: 35
+Chosen clause: (15 -12 -6 )
+Chosen varible: 15
+New string to be tested: 00001111001101101101
 
 Iteration: 9
-Binary string tested: 00110110100010000011
-Satisfied clauses: 67
-Unsatisfied clauses: 24
-Chosen clause: (-18 8 14 )
-Chosen varible: 8
-New string to be tested: 10110011110010110001
+Binary string tested: 00000111001001000101
+Satisfied clauses: 57
+Unsatisfied clauses: 34
+Chosen clause: (-18 -10 -8 )
+Chosen varible: -18
+New string to be tested: 00001111001101101001
 
 Iteration: 10
-Binary string tested: 00110110100010000011
-Satisfied clauses: 70
-Unsatisfied clauses: 21
-Chosen clause: (-12 19 -16 )
-Chosen varible: 19
-New string to be tested: 10110011110010110011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 53
+Unsatisfied clauses: 38
+Chosen clause: (-5 -20 -10 )
+Chosen varible: -5
+New string to be tested: 00000111001101101001
 
 Iteration: 11
-Binary string tested: 00110110100010000011
-Satisfied clauses: 71
-Unsatisfied clauses: 20
-Chosen clause: (-15 -16 6 )
-Chosen varible: -15
-New string to be tested: 10110011110010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 46
+Unsatisfied clauses: 45
+Chosen clause: (-20 -11 -19 )
+Chosen varible: -19
+New string to be tested: 00000111001101101011
 
 Iteration: 12
-Binary string tested: 00110110100010000011
-Satisfied clauses: 68
-Unsatisfied clauses: 23
-Chosen clause: (-5 -12 18 )
-Chosen varible: -5
-New string to be tested: 10111011110010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 57
+Unsatisfied clauses: 34
+Chosen clause: (-3 -7 -1 )
+Chosen varible: -3
+New string to be tested: 00100111001101101011
 
 Iteration: 13
-Binary string tested: 00110110100010000011
-Satisfied clauses: 69
-Unsatisfied clauses: 22
-Chosen clause: (11 -6 -4 )
-Chosen varible: 11
-New string to be tested: 10111011111010010011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 58
+Unsatisfied clauses: 33
+Chosen clause: (-17 -19 9 )
+Chosen varible: -17
+New string to be tested: 00100111001101100011
 
 Iteration: 14
-Binary string tested: 00110110100010000011
-Satisfied clauses: 71
-Unsatisfied clauses: 20
-Chosen clause: (-12 -4 -15 )
-Chosen varible: -15
-New string to be tested: 10111011111010110011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 56
+Unsatisfied clauses: 35
+Chosen clause: (-19 -7 -18 )
+Chosen varible: -7
+New string to be tested: 00100101001101100011
 
 Iteration: 15
-Binary string tested: 00110110100010000011
-Satisfied clauses: 73
-Unsatisfied clauses: 18
-Chosen clause: (-12 -16 -18 )
-Chosen varible: -16
-New string to be tested: 10111011111010100011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 49
+Unsatisfied clauses: 42
+Chosen clause: (-8 -20 16 )
+Chosen varible: 16
+New string to be tested: 00100101001101110011
 
 Iteration: 16
-Binary string tested: 00110110100010000011
-Satisfied clauses: 70
-Unsatisfied clauses: 21
-Chosen clause: (-19 -5 6 )
-Chosen varible: -5
-New string to be tested: 10110011111010100011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 54
+Unsatisfied clauses: 37
+Chosen clause: (-16 -6 5 )
+Chosen varible: -16
+New string to be tested: 00100101001101100011
 
 Iteration: 17
-Binary string tested: 00110110100010000011
-Satisfied clauses: 69
-Unsatisfied clauses: 22
-Chosen clause: (-7 -13 16 )
-Chosen varible: 16
-New string to be tested: 10110011111010110011
+Binary string tested: 00000111001001000101
+Satisfied clauses: 49
+Unsatisfied clauses: 42
+Chosen clause: (-13 10 -15 )
+Chosen varible: 10
+New string to be tested: 00100101011101100011
 
 Iteration: 18
-Binary string tested: 00110110100010000011
-Satisfied clauses: 72
-Unsatisfied clauses: 19
-Chosen clause: (14 18 -1 )
-Chosen varible: 18
-New string to be tested: 10110011111010110111
+Binary string tested: 00000111001001000101
+Satisfied clauses: 51
+Unsatisfied clauses: 40
+Chosen clause: (-18 -19 -20 )
+Chosen varible: -18
+New string to be tested: 00100101011101100111
 
 Iteration: 19
-Binary string tested: 00110110100010000011
-Satisfied clauses: 74
-Unsatisfied clauses: 17
-Chosen clause: (-11 17 -19 )
-Chosen varible: 17
-New string to be tested: 10110011111010111111
+Binary string tested: 00000111001001000101
+Satisfied clauses: 55
+Unsatisfied clauses: 36
+Chosen clause: (-20 -11 -19 )
+Chosen varible: -11
+New string to be tested: 00100101010101100111
 
 Iteration: 20
-Binary string tested: 00110110100010000011
-Satisfied clauses: 77
-Unsatisfied clauses: 14
-Chosen clause: (-7 -17 -19 )
+Binary string tested: 00000111001001000101
+Satisfied clauses: 51
+Unsatisfied clauses: 40
+Chosen clause: (7 -17 -16 )
+Chosen varible: 7
+New string to be tested: 00100111010101100111
+
+Iteration: 21
+Binary string tested: 00000111001001000101
+Satisfied clauses: 58
+Unsatisfied clauses: 33
+Chosen clause: (-12 -17 -1 )
+Chosen varible: -1
+New string to be tested: 10100111010101100111
+
+Iteration: 22
+Binary string tested: 00000111001001000101
+Satisfied clauses: 61
+Unsatisfied clauses: 30
+Chosen clause: (16 -7 -14 )
+Chosen varible: -7
+New string to be tested: 10100101010101100111
+
+Iteration: 23
+Binary string tested: 00000111001001000101
+Satisfied clauses: 54
+Unsatisfied clauses: 37
+Chosen clause: (7 -20 -1 )
+Chosen varible: -20
+New string to be tested: 10100101010101100110
+
+Iteration: 24
+Binary string tested: 00000111001001000101
+Satisfied clauses: 52
+Unsatisfied clauses: 39
+Chosen clause: (-1 -9 -18 )
+Chosen varible: -1
+New string to be tested: 00100101010101100110
+
+Iteration: 25
+Binary string tested: 00000111001001000101
+Satisfied clauses: 49
+Unsatisfied clauses: 42
+Chosen clause: (5 17 7 )
+Chosen varible: 5
+New string to be tested: 00101101010101100110
+
+Iteration: 26
+Binary string tested: 00000111001001000101
+Satisfied clauses: 56
+Unsatisfied clauses: 35
+Chosen clause: (-13 -1 11 )
+Chosen varible: -13
+New string to be tested: 00101101010111100110
+
+Iteration: 27
+Binary string tested: 00000111001001000101
+Satisfied clauses: 58
+Unsatisfied clauses: 33
+Chosen clause: (7 -20 -1 )
+Chosen varible: 7
+New string to be tested: 00101111010111100110
+
+Iteration: 28
+Binary string tested: 00000111001001000101
+Satisfied clauses: 64
+Unsatisfied clauses: 27
+Chosen clause: (-17 -19 9 )
+Chosen varible: 9
+New string to be tested: 00101111110111100110
+
+Iteration: 29
+Binary string tested: 00000111001001000101
+Satisfied clauses: 67
+Unsatisfied clauses: 24
+Chosen clause: (-13 -1 11 )
+Chosen varible: 11
+New string to be tested: 00101111111111100110
+
+Iteration: 30
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-20 -11 -19 )
+Chosen varible: -19
+New string to be tested: 00101111111111100100
+
+Iteration: 31
+Binary string tested: 00000111001001000101
+Satisfied clauses: 63
+Unsatisfied clauses: 28
+Chosen clause: (-12 -17 -1 )
 Chosen varible: -17
-New string to be tested: 10110011111010110111
+New string to be tested: 00101111111111101100
+
+Iteration: 32
+Binary string tested: 00000111001001000101
+Satisfied clauses: 63
+Unsatisfied clauses: 28
+Chosen clause: (-2 -14 1 )
+Chosen varible: -2
+New string to be tested: 01101111111111101100
+
+Iteration: 33
+Binary string tested: 00000111001001000101
+Satisfied clauses: 65
+Unsatisfied clauses: 26
+Chosen clause: (-18 -10 -8 )
+Chosen varible: -18
+New string to be tested: 01101111111111101000
+
+Iteration: 34
+Binary string tested: 00000111001001000101
+Satisfied clauses: 64
+Unsatisfied clauses: 27
+Chosen clause: (-4 -19 -18 )
+Chosen varible: -19
+New string to be tested: 01101111111111101010
+
+Iteration: 35
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-18 -10 -8 )
+Chosen varible: -18
+New string to be tested: 01101111111111101110
+
+Iteration: 36
+Binary string tested: 00000111001001000101
+Satisfied clauses: 72
+Unsatisfied clauses: 19
+Chosen clause: (-18 -19 -20 )
+Chosen varible: -20
+New string to be tested: 01101111111111101111
+
+Iteration: 37
+Binary string tested: 00000111001001000101
+Satisfied clauses: 74
+Unsatisfied clauses: 17
+Chosen clause: (16 -7 -14 )
+Chosen varible: -7
+New string to be tested: 01101101111111101111
+
+Iteration: 38
+Binary string tested: 00000111001001000101
+Satisfied clauses: 70
+Unsatisfied clauses: 21
+Chosen clause: (7 -20 -1 )
+Chosen varible: -20
+New string to be tested: 01101101111111101110
+
+Iteration: 39
+Binary string tested: 00000111001001000101
+Satisfied clauses: 68
+Unsatisfied clauses: 23
+Chosen clause: (-8 -20 16 )
+Chosen varible: -20
+New string to be tested: 01101101111111101111
+
+Iteration: 40
+Binary string tested: 00000111001001000101
+Satisfied clauses: 70
+Unsatisfied clauses: 21
+Chosen clause: (-19 -7 -18 )
+Chosen varible: -18
+New string to be tested: 01101101111111101011
+
+Iteration: 41
+Binary string tested: 00000111001001000101
+Satisfied clauses: 69
+Unsatisfied clauses: 22
+Chosen clause: (-1 -9 -18 )
+Chosen varible: -1
+New string to be tested: 11101101111111101011
+
+Iteration: 42
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-2 -16 -20 )
+Chosen varible: -2
+New string to be tested: 10101101111111101011
+
+Iteration: 43
+Binary string tested: 00000111001001000101
+Satisfied clauses: 70
+Unsatisfied clauses: 21
+Chosen clause: (-8 -11 18 )
+Chosen varible: 18
+New string to be tested: 10101101111111101111
+
+Iteration: 44
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-3 -7 -1 )
+Chosen varible: -7
+New string to be tested: 10101111111111101111
+
+Iteration: 45
+Binary string tested: 00000111001001000101
+Satisfied clauses: 75
+Unsatisfied clauses: 16
+Chosen clause: (-4 -19 -18 )
+Chosen varible: -19
+New string to be tested: 10101111111111101101
+
+Iteration: 46
+Binary string tested: 00000111001001000101
+Satisfied clauses: 68
+Unsatisfied clauses: 23
+Chosen clause: (-18 -19 -20 )
+Chosen varible: -19
+New string to be tested: 10101111111111101111
+
+Iteration: 47
+Binary string tested: 00000111001001000101
+Satisfied clauses: 75
+Unsatisfied clauses: 16
+Chosen clause: (-12 -17 -6 )
+Chosen varible: -12
+New string to be tested: 10101111111011101111
+
+Iteration: 48
+Binary string tested: 00000111001001000101
+Satisfied clauses: 74
+Unsatisfied clauses: 17
+Chosen clause: (-8 -20 16 )
+Chosen varible: -20
+New string to be tested: 10101111111011101110
+
+Iteration: 49
+Binary string tested: 00000111001001000101
+Satisfied clauses: 72
+Unsatisfied clauses: 19
+Chosen clause: (-18 -10 -8 )
+Chosen varible: -10
+New string to be tested: 10101111101011101110
+
+Iteration: 50
+Binary string tested: 00000111001001000101
+Satisfied clauses: 69
+Unsatisfied clauses: 22
+Chosen clause: (20 -9 -13 )
+Chosen varible: 20
+New string to be tested: 10101111101011101111
+
+Iteration: 51
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-12 -17 -6 )
+Chosen varible: -12
+New string to be tested: 10101111101111101111
+
+Iteration: 52
+Binary string tested: 00000111001001000101
+Satisfied clauses: 73
+Unsatisfied clauses: 18
+Chosen clause: (-3 -7 -1 )
+Chosen varible: -1
+New string to be tested: 00101111101111101111
+
+Iteration: 53
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-19 -7 -18 )
+Chosen varible: -19
+New string to be tested: 00101111101111101101
+
+Iteration: 54
+Binary string tested: 00000111001001000101
+Satisfied clauses: 63
+Unsatisfied clauses: 28
+Chosen clause: (-20 -11 -19 )
+Chosen varible: -19
+New string to be tested: 00101111101111101111
+
+Iteration: 55
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-18 -10 -8 )
+Chosen varible: -18
+New string to be tested: 00101111101111101011
+
+Iteration: 56
+Binary string tested: 00000111001001000101
+Satisfied clauses: 70
+Unsatisfied clauses: 21
+Chosen clause: (-18 -10 -8 )
+Chosen varible: -18
+New string to be tested: 00101111101111101111
+
+Iteration: 57
+Binary string tested: 00000111001001000101
+Satisfied clauses: 71
+Unsatisfied clauses: 20
+Chosen clause: (-12 -17 -6 )
+Chosen varible: -12
+New string to be tested: 00101111101011101111
+
+Iteration: 58
+Binary string tested: 00000111001001000101
+Satisfied clauses: 69
+Unsatisfied clauses: 22
+Chosen clause: (-5 -20 -10 )
+Chosen varible: -20
+New string to be tested: 00101111101011101110
+
+Iteration: 59
+Binary string tested: 00000111001001000101
+Satisfied clauses: 67
+Unsatisfied clauses: 24
+Chosen clause: (16 -7 -14 )
+Chosen varible: -7
+New string to be tested: 00101101101011101110
+
+Iteration: 60
+Binary string tested: 00000111001001000101
+Satisfied clauses: 63
+Unsatisfied clauses: 28
+Chosen clause: (12 -6 4 )
+Chosen varible: 12
+New string to be tested: 00101101101111101110
 

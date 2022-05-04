@@ -99,7 +99,7 @@ checkClause = []
 f = open("output.txt", "w")
 
 
-for repetitions in range(0,20):
+for repetitions in range(0,60):
     f.write("Iteration: "+str(repetitions+1) +'\n')
     satisfiedClauses = []
     unsatisfiedClauses = []
@@ -152,8 +152,11 @@ f.close()
     iteration so we can see the changes. This graph is stored on the same folder where all 
     other files needed for the project are saved. 
 '''
-plt.plot(steps, '--m', marker=".", markersize=10)
-plt.xticks(range(0,20))
+plt.figure(figsize=(15, 10))
+plt.plot(steps, 'm', marker=".", markersize=10, linestyle='None', label='')
+for iteration in range(0,60):
+    plt.annotate(str(steps[iteration]), (iteration, steps[iteration]+0.2))
+plt.xticks(range(0,60), rotation=70, fontsize=8)
 plt.xlabel('Iterations')
 plt.ylabel('Unsatisfied Clauses')
 plt.savefig('jumps.png')
